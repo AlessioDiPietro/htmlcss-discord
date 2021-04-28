@@ -131,7 +131,7 @@ li a {
 
 .esempio1{
     position:absolute;
-    top: 150px;
+    top: 250px;
     left: 16%;
     
     
@@ -140,7 +140,7 @@ li a {
 .descrizione {
     width: 300px;
     position: absolute;
-    top: 180px;
+    top: 280px;
     right: 16%;
     
 }
