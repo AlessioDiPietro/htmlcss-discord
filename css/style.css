@@ -125,13 +125,14 @@ li a {
 
 .primo {
     width: 100%;
+    height: 100vh;
     position: relative;
 }
 
 .esempio1{
     position:absolute;
     top: 150px;
-    left: 380px;
+    left: 16%;
     
     
 }
@@ -140,7 +141,7 @@ li a {
     width: 300px;
     position: absolute;
     top: 180px;
-    right: 380px;
+    right: 16%;
     
 }
 
@@ -148,6 +149,3 @@ li a {
     color: black;
 }
 
-.wave {
-    color: grey;
-}
