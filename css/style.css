@@ -18,9 +18,7 @@ h2{
     font-weight: 700;
 }
 
-.pubb {
-    position: relative;
-}
+
 
 /* area debug */
 /* .container-jumbo {
@@ -28,13 +26,9 @@ h2{
     background-color: blue;
  } */
 
-.container-main {
-    height: 1200px;
-    background-color: grey;
-}
 
 section {
-    height: 600px;
+    height: 800px;
 }
 
 .primo, .terzo {
@@ -125,27 +119,35 @@ li a {
     color: white;
 }
 
+/* fine jumbotron */
 
-.container-main {
-    background-color: white;
+/* inizio main */
+
+.primo {
+    width: 100%;
+    position: relative;
 }
 
-.clearfix {
-    display: table;
-    clear: both;
-    content: '';
+.esempio1{
+    position:absolute;
+    top: 150px;
+    left: 380px;
+    
+    
 }
 
-.pubb {
-
+.descrizione {
+    width: 300px;
+    position: absolute;
+    top: 180px;
+    right: 380px;
+    
 }
 
-.pubb img {
-    float: left;
+.descrizione p {
+    color: black;
 }
 
-.pubb h2 {
-    float: right;
-    width: 50%;
-    margin-top:30px;
+.wave {
+    color: grey;
 }
